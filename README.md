@@ -1,5 +1,3 @@
-## Skills
-
 <p align="center">
   &emsp;
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black"></a>
