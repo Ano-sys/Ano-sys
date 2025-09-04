@@ -20,6 +20,9 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"></a>
 </p>
-<p>
-  See <a href="Timo Niemann - Git" src="git.timoniemann.de"></a> for more minor but also cool stuff!
-</p>
+<div align="center">
+  <p>
+    See <a href="https://git.timoniemann.de">Timo Niemann – Git</a>  
+    for more minor but also cool stuff!
+  </p>
+</div>
